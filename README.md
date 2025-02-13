@@ -1,2 +1,1 @@
-# -detect-license-plate
-This project implements a multi-stage object detection pipeline using YOLOv8 to detect vehicles, extract license plates, and recognize characters from the plates.
+# YOLOv8-Based License Plate Detection and Character Recognition
